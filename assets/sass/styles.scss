@@ -6,12 +6,19 @@
     grid-gap: 30px;
     align-items: center;
    
-}
-&__card--container{
+
+&__card-container {
     margin-top: 86px;
     margin-left: 98px;
     border: 2px;
     background-color: #FFFFFF;
     border-color: #707070;
+
+
+}
+&__card-container__card-img {
+    height: 480px;
+    width: 270px;
 }
 
+}
